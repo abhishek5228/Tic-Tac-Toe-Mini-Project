@@ -9,3 +9,16 @@ Next we will finish the winning logic by updating the player points and resettin
 We will restore these values in onRestoreInstanceState so we don’t lose our game progress.
 Also we will implement a restart functionality, which resets our board, points and round count.
 
+GAME LAYOUT SCREENSHOT
+
+![image](https://user-images.githubusercontent.com/59703066/119693025-86f55280-be69-11eb-8657-61bc17b120aa.png).
+
+![image](https://user-images.githubusercontent.com/59703066/119693177-abe9c580-be69-11eb-9184-65b7b3a4d9b8.png)
+
+After RESET:-
+
+![image](https://user-images.githubusercontent.com/59703066/119693274-befc9580-be69-11eb-94c3-d584f3459cce.png)
+
+
+
+
