@@ -11,7 +11,7 @@ Also we will implement a restart functionality, which resets our board, points a
 
 GAME LAYOUT SCREENSHOT
 
-![image](https://user-images.githubusercontent.com/59703066/119693025-86f55280-be69-11eb-8657-61bc17b120aa.png)
+![image](<img src="https://user-images.githubusercontent.com/59703066/119693025-86f55280-be69-11eb-8657-61bc17b120aa.png">)
 
 ![image](https://user-images.githubusercontent.com/59703066/119693177-abe9c580-be69-11eb-9184-65b7b3a4d9b8.png)
 
